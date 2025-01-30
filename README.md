@@ -7,13 +7,13 @@ Concluí minha formação técnica em <b>Informática para Internet</b> através
 ---
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=isaque.s.venancio43@gmail.com&tf=cm" title="Gmail" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=isaque.s.venancio43@gmail.com&tf=cm" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
   </a>
-  <a href="https://github.com/isaquesv" title="LinkedIn" target="_blank">
+  <a href="[https://github.com/isaquesv](https://www.linkedin.com/in/isaque-venancio/)" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/isaque.s.venancio/" title="Instagram" target="_blank">
+  <a href="https://www.instagram.com/isaque.s.venancio/" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
   </a>
 </p>
