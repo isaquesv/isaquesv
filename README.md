@@ -2,7 +2,7 @@
 
 ---
 
-Concluí minha formação técnica em <b>Informática para Internet</b> através do <b>ETIM</b> na <b>ETEC de Itanhaém (SP)</b>, onde iniciei minha jornada na programação com foco no desenvolvimento web. Atualmente, curso <b>Análise e Desenvolvimento de Sistemas (ADS)</b> na <b>FATEC Praia Grande (SP)</b>, aprofundando meus conhecimentos em <b>lógica de programação</b>, <b>engenharia de software</b>, linguagens de programação como <b>Java</b> e <b>SQL</b>, <b>trabalho em equipe</b> e <b>bancos de dados</b>.
+Concluí minha formação técnica em <b>Informática para Internet</b> através do <b>ETIM</b> na <b>ETEC de Itanhaém (SP)</b>, onde iniciei minha jornada na programação com foco no desenvolvimento web. Atualmente, curso <b>Análise e Desenvolvimento de Sistemas (ADS)</b> na <b>FATEC de Praia Grande (SP)</b>, aprofundando meus conhecimentos em <b>lógica de programação</b>, <b>engenharia de software</b>, linguagens de programação como <b>Java</b> e <b>SQL</b>, <b>trabalho em equipe</b> e <b>bancos de dados</b>.
 
 ---
 
