@@ -4,7 +4,7 @@
 
 > Atualmente, estou no último ano do curso de Análise e Desenvolvimento de Sistemas na FATEC Praia Grande, onde sigo me aprofundando no desenvolvimento de sistemas, bancos de dados e no trabalho em equipe. Foi aqui que descobri o Java, uma linguagem que tem me chamado bastante atenção e na qual estou cada vez mais interessado em me especializar.
 
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isaquesv.github.io/my-portfolio/)
+<!--[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isaquesv.github.io/my-portfolio/)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-venancio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaque.s.venancio/)
 
