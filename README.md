@@ -1,21 +1,26 @@
 # Olá! Eu sou o Isaque, como vai você? 🤝
 
-> Desde 2022, quando concluí o curso técnico em Informática para Internet na ETEC de Itanhaém, venho trilhando minha jornada na programação. Foi lá que tive meu primeiro contato com desenvolvimento web e conheci tecnologias como HTML, CSS, JavaScript e SQL.
+> Atualmente, estou no último ano do curso de **Análise e Desenvolvimento de Sistemas** na **FATEC Praia Grande**. 📖
 
-> Atualmente, estou no último ano do curso de Análise e Desenvolvimento de Sistemas na FATEC Praia Grande, onde sigo me aprofundando no desenvolvimento de sistemas, bancos de dados e no trabalho em equipe. Foi aqui que descobri o Java, uma linguagem que tem me chamado bastante atenção e na qual estou cada vez mais interessado em me especializar.
+> Estou aprofundando meus conhecimentos em **lógica de programação**, **Java**, **SQL**, **JavaScript**, **HTML** e **CSS**. 📚
 
-<!--[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isaquesv.github.io/my-portfolio/)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-venancio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaque.s.venancio/)
+> Pretendo futuramente estudar sobre o framework **Spring** e **PostgreSQL**. 📌
 
-<hr>
+> Pergunte-me sobre **LoL**, **TFT** e desenhos animados como **Gravity Falls**, **Hora de Aventura**, **Incrível Mundo de Gumball**, **Rick and Morty**, entre outros! 🎮 📺
 
-![IsaqueSV's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesv&show_icons=true&theme=radical)
+> Iniciei minha jornada na programação em 2022, quando concluí meu curso técnico em **Informática para Internet** na **ETEC de Itanhaém**. ⏪
 
-<hr>
+---
 
+### 📫 Contato:
 
-## Tecnologias que utilizo no meu dia-a-dia
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/isaque-venancio/)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/isaque.s.venancio/)
+<a href="mailto:isaque.s.venancio43@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+---
+
+### ☕ Tecnologias e ferramentas:
 
 <div style="display: inline_block">
     <img align="center" alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,3 +30,7 @@
     <img align="center" alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+---
+
+![IsaqueSV's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesv&show_icons=true&theme=radical)
