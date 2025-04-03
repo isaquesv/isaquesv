@@ -1,6 +1,6 @@
 # Olá! Como vai? 🤝
 
-Meu nome é Isaque Silva Venancio, sou <ins>Técnico em Informática para Internet</ins> pela **[ETEC de Itanhaém](https://www.etecitanhaem.com.br/)** e estou no último ano do curso de <ins>Análise e Desenvolvimento de Sistemas</ins> na **[FATEC de Praia Grande](https://fatecpg.edu.br/)**.
+Meu nome é Isaque Silva Venancio, sou Técnico em Informática para Internet pela **[ETEC de Itanhaém](https://www.etecitanhaem.com.br/)** e estou no último ano do curso de Análise e Desenvolvimento de Sistemas na **[FATEC de Praia Grande](https://fatecpg.edu.br/)**.
 
 Sou um desenvolvedor com foco em backend, mas com experiência em frontend, utilizando tecnologias como CSS e Bootstrap. Atualmente, estou aprimorando meus conhecimentos em Java, SQL, APIs REST e Inteligência Artificial, sempre em busca de evolução e aprendizado contínuo.
 
