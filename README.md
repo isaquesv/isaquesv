@@ -1,36 +1,35 @@
-# Olá! Eu sou o Isaque, como vai você? 🤝
+# Olá! Como vai? 🤝
 
-> Atualmente, estou no último ano do curso de **Análise e Desenvolvimento de Sistemas** na **FATEC Praia Grande**. 📖
+Meu nome é Isaque Silva Venancio, sou <ins>Técnico em Informática para Internet</ins> pela **[ETEC de Itanhaém](https://www.etecitanhaem.com.br/)** e estou no último ano do curso de <ins>Análise e Desenvolvimento de Sistemas</ins> na **[FATEC de Praia Grande](https://fatecpg.edu.br/)**.
 
-> Estou aprofundando meus conhecimentos em **lógica de programação**, **Java**, **SQL**, **JavaScript**, **HTML** e **CSS**. 📚
-
-> Pretendo futuramente estudar sobre o framework **Spring** e **PostgreSQL**. 📌
-
-> Pergunte-me sobre **LoL**, **TFT** e desenhos animados como **Gravity Falls**, **Hora de Aventura**, **Incrível Mundo de Gumball**, **Rick and Morty**, entre outros! 🎮 📺
-
-> Iniciei minha jornada na programação em 2022, quando concluí meu curso técnico em **Informática para Internet** na **ETEC de Itanhaém**. ⏪
+Sou um desenvolvedor com foco em backend, mas com experiência em frontend, utilizando tecnologias como CSS e Bootstrap. Atualmente, estou aprimorando meus conhecimentos em Java, SQL, APIs REST e Inteligência Artificial, sempre em busca de evolução e aprendizado contínuo.
 
 ---
 
-### 📫 Contato:
+## **🚀 Linguagens e tecnologias**  
+[![Linguagens e tecnologias](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,sqlite)](https://skillicons.dev)  
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/isaque-venancio/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/isaque.s.venancio/)
-<a href="mailto:isaque.s.venancio43@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
+## **🛠️ Ferramentas e plataformas**  
+[![Ferramentas e plataformas](https://skillicons.dev/icons?i=github,git,vscode,figma,maven)](https://skillicons.dev)  
+
+<img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"/>
+
+## **📚 Atualmente estudando**  
+[![Atualmente estudando](https://skillicons.dev/icons?i=postgres,postman,spring)](https://skillicons.dev)  
+
+## **🔍 Já tive um breve contato com**  
+[![Já tive um breve contato com](https://skillicons.dev/icons?i=php,mysql,sublime,react)](https://skillicons.dev)   
+<img src="https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white"/>
+
+## **💬 Onde me encontrar**  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaque-venancio/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/isaque.s.venancio/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:isaque.s.venancio43@gmail.com)
 
 ---
 
-### ☕ Tecnologias e ferramentas:
-
-<div style="display: inline_block">
-    <img align="center" alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
----
-
-![IsaqueSV's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesv&show_icons=true&theme=radical)
+## **📝 GitHub Stats**
+![IsaqueSV's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesv&show_icons=true&hide_title=true&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=165 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaquesv&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+</a>
