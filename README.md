@@ -15,7 +15,7 @@ Sou um desenvolvedor com foco em backend, mas com experiência em frontend, util
 <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"/>
 
 ## **📚 Atualmente estudando**  
-[![Atualmente estudando](https://skillicons.dev/icons?i=postgres,postman,spring)](https://skillicons.dev)  
+[![Atualmente estudando](https://skillicons.dev/icons?i=postgres,spring)](https://skillicons.dev)  
 
 ## **🔍 Já tive um breve contato com**  
 [![Já tive um breve contato com](https://skillicons.dev/icons?i=php,mysql,sublime,react)](https://skillicons.dev)   
