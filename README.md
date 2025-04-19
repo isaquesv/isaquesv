@@ -10,7 +10,7 @@ Sou um desenvolvedor com foco em backend, mas com experiência em frontend, util
 [![Linguagens e tecnologias](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,sqlite)](https://skillicons.dev)  
 
 ## **🛠️ Ferramentas e plataformas**  
-[![Ferramentas e plataformas](https://skillicons.dev/icons?i=github,git,vscode,figma,maven)](https://skillicons.dev)  
+[![Ferramentas e plataformas](https://skillicons.dev/icons?i=github,git,vscode,figma,maven,idea)](https://skillicons.dev)  
 
 <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"/>
 
