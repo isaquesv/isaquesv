@@ -5,7 +5,7 @@ Meu nome é Isaque Silva Venancio, sou técnico em *Informática para Internet* 
 
 Comecei a programar em 2022, quando tive meu primeiro contato com lógica de programação e desenvolvimento web. Desde então, venho me dedicando a explorar e aprofundar meus conhecimentos em áreas como banco de dados, *frontend* e *backend*.
 
-Atualmente, me dedico tanto ao *frontend* quanto ao *backend*, mas confesso que tenho um carinho especial pelo *backend*. Tenho aprofundado meus conhecimentos no desenvolvimento de sistemas com `HTML`, `CSS`, `JavaScript`, `Java`, `SQL`, `APIs` e também explorado o uso da Inteligência Artificial em meus projetos.
+Hoje, atuo tanto no *frontend* quanto ao *backend*, mas confesso que tenho um carinho especial pelo *backend*. Tenho me aprofundado no desenvolvimento de sistemas com `HTML`, `CSS`, `JavaScript`, `Java`, `SQL`, `APIs` e na aplicação de Inteligência Artificial em meus projetos.
 
 ---
 
