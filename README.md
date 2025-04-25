@@ -1,8 +1,11 @@
+
 # Olá! Como vai? 🤝
 
-Meu nome é Isaque Silva Venancio, sou Técnico em Informática para Internet pela **[ETEC de Itanhaém](https://www.etecitanhaem.com.br/)** e estou no último ano do curso de Análise e Desenvolvimento de Sistemas na **[FATEC de Praia Grande](https://fatecpg.edu.br/)**.
+Meu nome é Isaque Silva Venancio, sou técnico em *Informática para Internet* pela *[ETEC de Itanhaém](https://www.etecitanhaem.com.br/)* e estou no último ano do curso de *Análise e Desenvolvimento de Sistemas* na *[FATEC de Praia Grande](https://fatecpg.edu.br/)*.
 
-Sou um desenvolvedor com foco em backend, mas com experiência em frontend, utilizando tecnologias como CSS e Bootstrap. Atualmente, estou aprimorando meus conhecimentos em Java, SQL, APIs REST e Inteligência Artificial, sempre em busca de evolução e aprendizado contínuo.
+Comecei a programar em 2022, quando tive meu primeiro contato com lógica de programação e desenvolvimento web. Desde então, venho me dedicando a explorar e aprofundar meus conhecimentos em áreas como banco de dados, *frontend* e *backend*.
+
+Atualmente, me dedico tanto ao *frontend* quanto ao *backend*, mas confesso que tenho um carinho especial pelo *backend*. Tenho aprofundado meus conhecimentos no desenvolvimento de sistemas com `HTML`, `CSS`, `JavaScript`, `Java`, `SQL`, `APIs` e também explorado o uso da Inteligência Artificial em meus projetos.
 
 ---
 
@@ -12,14 +15,8 @@ Sou um desenvolvedor com foco em backend, mas com experiência em frontend, util
 ## **🛠️ Ferramentas e plataformas**  
 [![Ferramentas e plataformas](https://skillicons.dev/icons?i=github,git,vscode,figma,maven,idea)](https://skillicons.dev)  
 
-<img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white"/>
-
 ## **📚 Atualmente estudando**  
-[![Atualmente estudando](https://skillicons.dev/icons?i=postgres,spring)](https://skillicons.dev)  
-
-## **🔍 Já tive um breve contato com**  
-[![Já tive um breve contato com](https://skillicons.dev/icons?i=php,mysql,sublime,react)](https://skillicons.dev)   
-<img src="https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white"/>
+[![Atualmente estudando](https://skillicons.dev/icons?i=postgres,spring)](https://skillicons.dev)   
 
 ## **💬 Onde me encontrar**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isaque-venancio/)
@@ -33,3 +30,7 @@ Sou um desenvolvedor com foco em backend, mas com experiência em frontend, util
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=165 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaquesv&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
+
+---
+
+*"O que mais me fascina na programação é como um único problema pode ter inúmeras soluções e como uma simples mudança de perspectiva pode tornar tudo muito mais otimizado!"*
