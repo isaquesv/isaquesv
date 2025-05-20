@@ -7,6 +7,7 @@ Comecei a programar em 2022, quando tive meu primeiro contato com lógica de pro
 
 Hoje, atuo tanto no *frontend* quanto ao *backend*, mas confesso que tenho um carinho especial pelo *backend*. Tenho me aprofundado no desenvolvimento de sistemas com `HTML`, `CSS`, `JavaScript`, `Java`, `SQL`, `APIs` e na aplicação de Inteligência Artificial em meus projetos.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://isaquesv.github.io/portfolio/)
 ---
 
 ## **🚀 Linguagens e tecnologias**  
